@@ -19,9 +19,3 @@
 ::-webkit-scrollbar-thumb:hover {
     background: linear-gradient(135deg, #b8941f, var(--secondary));
 }
-
-/* Firefox */
-* {
-    scrollbar-width: thin;
-    scrollbar-color: var(--secondary) var(--primary);
-}
